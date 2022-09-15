@@ -1,1 +1,1 @@
-# Basic todolist app create with react
+# Basic todolist app created with react
